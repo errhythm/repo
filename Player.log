@@ -3,7 +3,7 @@ Mono config path = 'D:/SteamLibrary/steamapps/common/REPO/MonoBleedingEdge/etc'
 [Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
 Initialize engine version: 2022.3.21f1 (bf09ca542b87)
 [Subsystems] Discovering subsystems at path D:/SteamLibrary/steamapps/common/REPO/REPO_Data/UnitySubsystems
-GfxDevice: creating device client; threaded=1; jobified=1
+GfxDevice: screating device client; threaded=1; jobified=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: Intel(R) UHD Graphics 630 (ID=0x9bc8)
@@ -13,11 +13,14 @@ Direct3D:
 Begin MonoManager ReloadAssembly
 - Loaded All Assemblies, in  6.827 seconds
 - Finished resetting the current domain, in  0.002 seconds
-<RI> Initializing input.
+<RI> Initializing input.
+
 New input system (experimental) initialized
 Using Windows.Gaming.Input
-<RI> Input initialized.
-<RI> Initialized touch support.
+<RI> Input initialized.
+
+<RI> Initialized touch support.
+
 UnloadTime: 6.807100 ms
 Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
 Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.

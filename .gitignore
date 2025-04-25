@@ -1,4 +1,6 @@
-*.log
-*.vdf
-CurrentKeyBindings.es3
+Player.log
+Player-prev.log
+SettingsData.es3
+steam_autocloud.vdf
 DefaultKeyBindings.es3
+CurrentKeyBindings.es3
