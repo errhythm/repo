@@ -1,0 +1,794 @@
+Mono path[0] = 'D:/SteamLibrary/steamapps/common/REPO/REPO_Data/Managed'
+Mono config path = 'D:/SteamLibrary/steamapps/common/REPO/MonoBleedingEdge/etc'
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Initialize engine version: 2022.3.21f1 (bf09ca542b87)
+[Subsystems] Discovering subsystems at path D:/SteamLibrary/steamapps/common/REPO/REPO_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x9bc8)
+    Vendor:   Intel
+    VRAM:     16308 MB
+    Driver:   31.0.101.2134
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  6.590 seconds
+- Finished resetting the current domain, in  0.001 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+Using Windows.Gaming.Input
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.979500 ms
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+VERSION: v0.1.2
+STEAM ID: 76561198991142248
+Getting Steam Auth Ticket...
+Steam: Game lobby join requested: 109775241185829272
+Steam: Lobby entered with ID: 109775241185829272
+Steam: Region: asia
+Changed level to: Level - Lobby Menu
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 31.065000 ms
+PunVoiceClientLogic Awake
+Already in lobby on Network Connect. Connecting to region: asia
+Sending Steam Auth Ticket...
+Getting Steam Auth Ticket...
+Unloading 16599 unused Assets to reduce memory usage. Loaded Objects now: 752753.
+Total: 484.884100 ms (FindLiveObjects: 66.536400 ms CreateObjectMapping: 115.219000 ms MarkObjects: 291.223100 ms  DeleteObjects: 11.905400 ms)
+
+Connected to Master Server
+I am not the owner.
+Trying to join room: 109775241185829272
+Joined room: 109775241185829272 asia
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Calling OpJoinOrCreateRoom for room name '109775241185829272_voice_' region asia.
+Game Mode: Multiplayer
+NetworkConnect destroyed.
+UnloadTime: 15.177300 ms
+[2025-04-24T16:06:37] [Info] [LOGGER] [VoiceLogger] Disabling VoiceLogger duplicates at the scene root.
+[2025-04-24T16:06:37] [Warning] [PhotonVoiceView] [Voice(Clone)] PhotonVoiceView.RecorderInUse.TransmitEnabled is false, don't forget to set it to true to enable transmission.
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 772706.
+Total: 320.625100 ms (FindLiveObjects: 59.008900 ms CreateObjectMapping: 116.627300 ms MarkObjects: 139.767000 ms  DeleteObjects: 5.220700 ms)
+
+[2025-04-24T16:06:41] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for voice #1 of not inited player 3
+[2025-04-24T16:06:41] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for not inited voice #2 of player 3
+updated level to: Level - Arctic
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.902600 ms
+Unloading 16613 unused Assets to reduce memory usage. Loaded Objects now: 752868.
+Total: 456.031000 ms (FindLiveObjects: 52.999000 ms CreateObjectMapping: 109.829600 ms MarkObjects: 280.778700 ms  DeleteObjects: 12.423300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.127100 ms
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 770573.
+Total: 314.578200 ms (FindLiveObjects: 58.483800 ms CreateObjectMapping: 114.927600 ms MarkObjects: 135.631900 ms  DeleteObjects: 5.534400 ms)
+
+Master client left...
+Player left room: LYNX
+Steam: Lobby member left: LYNX
+Leave Photon
+Steam: Leaving lobby... and ruining it for others.
+Cancelling Steam Auth Ticket...
+Disconnected from server for reason DisconnectByClientLogic
+Leave to Main Menu
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 26.029400 ms
+Unloading 16812 unused Assets to reduce memory usage. Loaded Objects now: 752948.
+Total: 385.482400 ms (FindLiveObjects: 52.074400 ms CreateObjectMapping: 105.651900 ms MarkObjects: 212.043400 ms  DeleteObjects: 15.712200 ms)
+
+Steam: Lobby member left: Lydiax
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.231400 ms
+Unloading 145 unused Assets to reduce memory usage. Loaded Objects now: 770534.
+Total: 305.531800 ms (FindLiveObjects: 62.215100 ms CreateObjectMapping: 110.208600 ms MarkObjects: 128.125500 ms  DeleteObjects: 4.982200 ms)
+
+Changed level to: Level - Lobby Menu
+[2025-04-24T16:09:06] [Info] [LOGGER] [VoiceLogger] Disabling VoiceLogger duplicates at the scene root.
+PunVoiceClientLogic Awake
+Created lobby on Network Connect.
+Steam: Hosting lobby...
+Steam: Lobby created with ID: 109775241186075990
+Steam: Lobby entered with ID: 109775241186075990
+Steam: Region: 
+Sending Steam Auth Ticket...
+Getting Steam Auth Ticket...
+Connected to Master Server
+I am the owner.
+Steam: Setting lobby data...
+Trying to join room: 109775241186075990
+Created room successfully: 109775241186075990
+Joined room: 109775241186075990 asia
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Game Mode: Multiplayer
+NetworkConnect destroyed.
+UnloadTime: 17.699800 ms
+[2025-04-24T16:09:09] [Info] [LOGGER] [VoiceLogger] Disabling VoiceLogger duplicates at the scene root.
+[2025-04-24T16:09:09] [Warning] [PhotonVoiceView] [Voice(Clone)] PhotonVoiceView.RecorderInUse.TransmitEnabled is false, don't forget to set it to true to enable transmission.
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 770556.
+Total: 306.770300 ms (FindLiveObjects: 59.241200 ms CreateObjectMapping: 112.270000 ms MarkObjects: 129.681000 ms  DeleteObjects: 5.577200 ms)
+
+Calling OpJoinOrCreateRoom for room name '109775241186075990_voice_' region asia.
+Steam: Unlocking lobby...
+[2025-04-24T16:09:13] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for voice #3 of not inited player 1
+[2025-04-24T16:09:13] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for voice #4 of not inited player 1
+Steam: Lobby member joined: Lydiax
+Connection lost. OnStatusChanged to TimeoutDisconnect. Client state was: Joined. SCS v0 UDP SocketErrorCode: 0 AppOutOfFocus WinSock
+[2025-04-24T16:09:32] [Error] [PunVoiceClient] [PunVoiceClient(Clone)] Failed to join room. RoomName: '109775241186075990_voice_' Region: asia Error: 32758. Message: Game does not exist.
+Connection lost. OnStatusChanged to TimeoutDisconnect. Client state was: Joined. SCS v0 UDP SocketErrorCode: 0 AppOutOfFocus WinSock
+Disconnected from server for reason ClientTimeout
+Cannot send messages when not connected. Either connect to Photon OR use offline mode!
+Leave Photon
+Steam: Leaving lobby... and ruining it for others.
+Cancelling Steam Auth Ticket...
+Leave to Main Menu
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.597400 ms
+Unloading 16672 unused Assets to reduce memory usage. Loaded Objects now: 752780.
+Total: 486.030900 ms (FindLiveObjects: 57.347000 ms CreateObjectMapping: 117.969300 ms MarkObjects: 296.576200 ms  DeleteObjects: 14.137900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.185300 ms
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 770485.
+Total: 317.313100 ms (FindLiveObjects: 56.537700 ms CreateObjectMapping: 109.370000 ms MarkObjects: 143.196700 ms  DeleteObjects: 8.208000 ms)
+
+Changed level to: Level - Lobby Menu
+[2025-04-24T16:09:46] [Info] [LOGGER] [VoiceLogger] Disabling VoiceLogger duplicates at the scene root.
+PunVoiceClientLogic Awake
+Created lobby on Network Connect.
+Steam: Hosting lobby...
+Steam: Lobby created with ID: 109775241186181547
+Steam: Lobby entered with ID: 109775241186181547
+Steam: Region: 
+Sending Steam Auth Ticket...
+Getting Steam Auth Ticket...
+Connected to Master Server
+I am the owner.
+Steam: Setting lobby data...
+Trying to join room: 109775241186181547
+Created room successfully: 109775241186181547
+Joined room: 109775241186181547 asia
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Game Mode: Multiplayer
+NetworkConnect destroyed.
+UnloadTime: 17.082000 ms
+[2025-04-24T16:09:51] [Info] [LOGGER] [VoiceLogger] Disabling VoiceLogger duplicates at the scene root.
+[2025-04-24T16:09:51] [Warning] [PhotonVoiceView] [Voice(Clone)] PhotonVoiceView.RecorderInUse.TransmitEnabled is false, don't forget to set it to true to enable transmission.
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 770497.
+Total: 376.898800 ms (FindLiveObjects: 53.598200 ms CreateObjectMapping: 109.263400 ms MarkObjects: 208.547500 ms  DeleteObjects: 5.488900 ms)
+
+Calling OpJoinOrCreateRoom for room name '109775241186181547_voice_' region asia.
+Steam: Unlocking lobby...
+[2025-04-24T16:09:56] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for voice #5 of not inited player 1
+[2025-04-24T16:09:56] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for not inited voice #6 of player 1
+Steam: Lobby member joined: LYNX
+Steam: Lobby member joined: Lydiax
+[2025-04-24T16:10:04] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for voice #1 of not inited player 2
+[2025-04-24T16:10:04] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for not inited voice #2 of player 2
+[2025-04-24T16:10:06] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for voice #4 of not inited player 3
+[2025-04-24T16:10:06] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for not inited voice #5 of player 3
+Steam: Locking lobby...
+Changed level to: Level - Wizard
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 17.842200 ms
+Unloading 16624 unused Assets to reduce memory usage. Loaded Objects now: 752871.
+Total: 481.191700 ms (FindLiveObjects: 52.980500 ms CreateObjectMapping: 135.191400 ms MarkObjects: 278.724600 ms  DeleteObjects: 14.294900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.687600 ms
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 771711.
+Total: 336.129000 ms (FindLiveObjects: 56.648300 ms CreateObjectMapping: 133.956100 ms MarkObjects: 140.152000 ms  DeleteObjects: 5.372000 ms)
+
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+[2025-04-24T16:11:17] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for not inited voice #6 of player 3
+[2025-04-24T16:11:17] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for not inited voice #7 of player 3
+[2025-04-24T16:11:37] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for not inited voice #9 of player 3
+Received RPC "GrabLinkRPC" for viewID 292 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'LYNX' Maybe GO was destroyed but RPC not cleaned up.
+Received RPC "GrabPointSyncRPC" for viewID 292 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'LYNX' Maybe GO was destroyed but RPC not cleaned up.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Changed level to: Level - Shop
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 105.452400 ms
+Unloading 17358 unused Assets to reduce memory usage. Loaded Objects now: 753069.
+Total: 521.184600 ms (FindLiveObjects: 51.997400 ms CreateObjectMapping: 158.789400 ms MarkObjects: 289.615400 ms  DeleteObjects: 20.781800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.010000 ms
+Unloading 154 unused Assets to reduce memory usage. Loaded Objects now: 770646.
+Total: 414.970100 ms (FindLiveObjects: 56.466500 ms CreateObjectMapping: 127.082400 ms MarkObjects: 226.286300 ms  DeleteObjects: 5.134500 ms)
+
+Changed level to: Level - Lobby
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 43.373200 ms
+Unloading 16748 unused Assets to reduce memory usage. Loaded Objects now: 752980.
+Total: 469.019000 ms (FindLiveObjects: 53.066700 ms CreateObjectMapping: 111.546100 ms MarkObjects: 290.957600 ms  DeleteObjects: 13.448300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.737900 ms
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 771812.
+Total: 305.023900 ms (FindLiveObjects: 55.723100 ms CreateObjectMapping: 109.022700 ms MarkObjects: 136.049400 ms  DeleteObjects: 4.228400 ms)
+
+Changed level to: Level - Arctic
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.583800 ms
+Unloading 16751 unused Assets to reduce memory usage. Loaded Objects now: 752988.
+Total: 543.954700 ms (FindLiveObjects: 57.970900 ms CreateObjectMapping: 175.137000 ms MarkObjects: 297.112300 ms  DeleteObjects: 13.734100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.436300 ms
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 771817.
+Total: 280.672600 ms (FindLiveObjects: 55.636500 ms CreateObjectMapping: 114.593200 ms MarkObjects: 104.994900 ms  DeleteObjects: 5.447400 ms)
+
+Received RPC "SetPositionRPC" for viewID 505 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'Lydiax' Maybe GO was destroyed but RPC not cleaned up.
+Received RPC "SetPositionRPC" for viewID 508 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'Lydiax' Maybe GO was destroyed but RPC not cleaned up.
+Received RPC "SetPositionRPC" for viewID 503 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'Lydiax' Maybe GO was destroyed but RPC not cleaned up.
+Received RPC "SetPositionRPC" for viewID 505 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'LYNX' Maybe GO was destroyed but RPC not cleaned up.
+Received RPC "SetPositionRPC" for viewID 508 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'LYNX' Maybe GO was destroyed but RPC not cleaned up.
+Received RPC "SetPositionRPC" for viewID 503 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'LYNX' Maybe GO was destroyed but RPC not cleaned up.
+Received RPC "GrabLinkRPC" for viewID 536 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'LYNX' Maybe GO was destroyed but RPC not cleaned up.
+Received RPC "GrabPointSyncRPC" for viewID 536 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'LYNX' Maybe GO was destroyed but RPC not cleaned up.
+Changed level to: Level - Shop
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 82.722100 ms
+Unloading 17420 unused Assets to reduce memory usage. Loaded Objects now: 753082.
+Total: 484.941100 ms (FindLiveObjects: 62.104900 ms CreateObjectMapping: 118.716700 ms MarkObjects: 287.678600 ms  DeleteObjects: 16.440400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.554000 ms
+Unloading 126 unused Assets to reduce memory usage. Loaded Objects now: 770687.
+Total: 268.712000 ms (FindLiveObjects: 54.417100 ms CreateObjectMapping: 110.683900 ms MarkObjects: 97.187500 ms  DeleteObjects: 6.422000 ms)
+
+Changed level to: Level - Lobby
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 29.634800 ms
+Unloading 16738 unused Assets to reduce memory usage. Loaded Objects now: 753016.
+Total: 502.177900 ms (FindLiveObjects: 57.352500 ms CreateObjectMapping: 143.171900 ms MarkObjects: 288.013100 ms  DeleteObjects: 13.639400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.095600 ms
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 771848.
+Total: 368.513200 ms (FindLiveObjects: 52.201700 ms CreateObjectMapping: 164.305900 ms MarkObjects: 147.026800 ms  DeleteObjects: 4.977800 ms)
+
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Changed level to: Level - Wizard
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.035300 ms
+Received RPC "LandRPC" for viewID 2032 but this PhotonView does not exist! Was remote PV. Owner called. By: #02 'LYNX' Maybe GO was destroyed but RPC not cleaned up.
+Unloading 16763 unused Assets to reduce memory usage. Loaded Objects now: 753026.
+Total: 499.973100 ms (FindLiveObjects: 52.506400 ms CreateObjectMapping: 144.149700 ms MarkObjects: 288.621900 ms  DeleteObjects: 14.694700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.206000 ms
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 771854.
+Total: 352.326800 ms (FindLiveObjects: 58.738800 ms CreateObjectMapping: 154.731500 ms MarkObjects: 132.370800 ms  DeleteObjects: 6.484800 ms)
+
+Leave Photon
+Steam: Leaving lobby... and ruining it for others.
+Cancelling Steam Auth Ticket...
+RaiseEvent(201) failed. Your event is not being sent! Check if your are in a Room
+Disconnected from server for reason DisconnectByClientLogic
+Leave to Main Menu
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 31.311900 ms
+Unloading 16948 unused Assets to reduce memory usage. Loaded Objects now: 752967.
+Total: 459.539000 ms (FindLiveObjects: 64.995100 ms CreateObjectMapping: 170.011600 ms MarkObjects: 208.826900 ms  DeleteObjects: 15.704500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.337200 ms
+Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 770608.
+Total: 316.097800 ms (FindLiveObjects: 53.978600 ms CreateObjectMapping: 111.510300 ms MarkObjects: 144.834500 ms  DeleteObjects: 5.774000 ms)
+
+Changed level to: Level - Lobby Menu
+[2025-04-24T16:59:58] [Info] [LOGGER] [VoiceLogger] Disabling VoiceLogger duplicates at the scene root.
+PunVoiceClientLogic Awake
+Created lobby on Network Connect.
+Steam: Hosting lobby...
+Steam: Lobby created with ID: 109775241190263194
+Steam: Lobby entered with ID: 109775241190263194
+Steam: Region: 
+Sending Steam Auth Ticket...
+Getting Steam Auth Ticket...
+Connected to Master Server
+I am the owner.
+Steam: Setting lobby data...
+Trying to join room: 109775241190263194
+Created room successfully: 109775241190263194
+Joined room: 109775241190263194 asia
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Game Mode: Multiplayer
+NetworkConnect destroyed.
+UnloadTime: 15.975100 ms
+[2025-04-24T17:00:01] [Info] [LOGGER] [VoiceLogger] Disabling VoiceLogger duplicates at the scene root.
+[2025-04-24T17:00:01] [Warning] [PhotonVoiceView] [Voice(Clone)] PhotonVoiceView.RecorderInUse.TransmitEnabled is false, don't forget to set it to true to enable transmission.
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 770620.
+Total: 314.653100 ms (FindLiveObjects: 61.992500 ms CreateObjectMapping: 113.390700 ms MarkObjects: 133.924600 ms  DeleteObjects: 5.344800 ms)
+
+Calling OpJoinOrCreateRoom for room name '109775241190263194_voice_' region asia.
+Steam: Unlocking lobby...
+[2025-04-24T17:00:06] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for voice #7 of not inited player 1
+[2025-04-24T17:00:06] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for not inited voice #8 of player 1
+Steam: Lobby member joined: Lydiax
+[2025-04-24T17:00:30] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for voice #10 of not inited player 2
+[2025-04-24T17:00:30] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for not inited voice #11 of player 2
+Steam: Locking lobby...
+Changed level to: Level - Wizard
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.476800 ms
+Unloading 16633 unused Assets to reduce memory usage. Loaded Objects now: 752946.
+Total: 497.824700 ms (FindLiveObjects: 51.446200 ms CreateObjectMapping: 142.321200 ms MarkObjects: 290.655600 ms  DeleteObjects: 13.401000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.876000 ms
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 771218.
+Total: 308.881500 ms (FindLiveObjects: 54.579300 ms CreateObjectMapping: 117.571600 ms MarkObjects: 130.910300 ms  DeleteObjects: 5.819800 ms)
+
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Changed level to: Level - Shop
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 124.322500 ms
+Unloading 17365 unused Assets to reduce memory usage. Loaded Objects now: 753125.
+Total: 497.299700 ms (FindLiveObjects: 61.487500 ms CreateObjectMapping: 119.150700 ms MarkObjects: 300.236200 ms  DeleteObjects: 16.424800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.341400 ms
+Unloading 165 unused Assets to reduce memory usage. Loaded Objects now: 771253.
+Total: 381.298600 ms (FindLiveObjects: 56.258700 ms CreateObjectMapping: 116.851200 ms MarkObjects: 202.730700 ms  DeleteObjects: 5.457300 ms)
+
+Changed level to: Level - Lobby
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 49.862300 ms
+Unloading 16753 unused Assets to reduce memory usage. Loaded Objects now: 753011.
+Total: 503.130200 ms (FindLiveObjects: 54.231800 ms CreateObjectMapping: 128.930600 ms MarkObjects: 306.301400 ms  DeleteObjects: 13.666000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.912800 ms
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 770707.
+Total: 317.287200 ms (FindLiveObjects: 58.819400 ms CreateObjectMapping: 122.786800 ms MarkObjects: 130.362800 ms  DeleteObjects: 5.317900 ms)
+
+Changed level to: Level - Arctic
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.657400 ms
+Unloading 16729 unused Assets to reduce memory usage. Loaded Objects now: 753017.
+Total: 505.466600 ms (FindLiveObjects: 58.744100 ms CreateObjectMapping: 128.664800 ms MarkObjects: 301.037600 ms  DeleteObjects: 17.019800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.886900 ms
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 770712.
+Total: 383.994600 ms (FindLiveObjects: 55.923600 ms CreateObjectMapping: 119.554000 ms MarkObjects: 203.145900 ms  DeleteObjects: 5.370700 ms)
+
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Leave Photon
+Steam: Leaving lobby... and ruining it for others.
+Cancelling Steam Auth Ticket...
+RaiseEvent(201) failed. Your event is not being sent! Check if your are in a Room
+Disconnected from server for reason DisconnectByClientLogic
+Leave to Main Menu
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 32.150900 ms
+Unloading 16843 unused Assets to reduce memory usage. Loaded Objects now: 753046.
+Total: 430.389700 ms (FindLiveObjects: 68.255600 ms CreateObjectMapping: 129.926000 ms MarkObjects: 218.529500 ms  DeleteObjects: 13.678100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.305900 ms
+Unloading 113 unused Assets to reduce memory usage. Loaded Objects now: 770664.
+Total: 470.521300 ms (FindLiveObjects: 56.079300 ms CreateObjectMapping: 117.450500 ms MarkObjects: 291.673200 ms  DeleteObjects: 5.317100 ms)
+
+Cancelling Steam Auth Ticket...
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [8.0 KB-16.0 KB]: 12388 frames, [16.0 KB-32.0 KB]: 1967 frames, [32.0 KB-64.0 KB]: 2392 frames, [64.0 KB-128.0 KB]: 18330 frames, [128.0 KB-256.0 KB]: 44478 frames, [256.0 KB-0.5 MB]: 112471 frames, [0.5 MB-1.0 MB]: 29525 frames, [1.0 MB-2.0 MB]: 118 frames, [2.0 MB-4.0 MB]: 89 frames, [4.0 MB-8.0 MB]: 41 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 7.3 MB
+      Peak Allocated Bytes 6.9 MB
+      Overflow Count 481
+    [ALLOC_TEMP_Background Job.worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 452.0 KB
+      Peak Allocated Bytes 418.8 KB
+      Overflow Count 952
+    [ALLOC_TEMP_Background Job.worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 284 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 6
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 88.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 33.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 11
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 94.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_HIDInput]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 10.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 256 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 84882
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 182 Subsections = 186368 buckets. Failed count: 29083731
+        32B: 15 Subsections = 7680 buckets. Failed count: 9500339
+        48B: 21 Subsections = 7168 buckets. Failed count: 26905663
+        64B: 18 Subsections = 4608 buckets. Failed count: 2606358
+        80B: 13 Subsections = 2662 buckets. Failed count: 3116900
+        96B: 3 Subsections = 512 buckets. Failed count: 1240098
+        112B: 2 Subsections = 292 buckets. Failed count: 2405477
+        128B: 2 Subsections = 256 buckets. Failed count: 1606933
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [64.0 MB-128.0 MB]: 2121 frames, [128.0 MB-256.0 MB]: 43161 frames, [256.0 MB-0.50 GB]: 176517 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 17
+      Peak Allocated memory 425.0 MB
+      Peak Large allocation bytes 201.7 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 2785 frames, [64.0 MB-128.0 MB]: 219013 frames, [0.50 GB-1.00 GB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 7
+      Peak Allocated memory 0.51 GB
+      Peak Large allocation bytes 495.1 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 74
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 44
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 34
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 182 Subsections = 186368 buckets. Failed count: 29083731
+        32B: 15 Subsections = 7680 buckets. Failed count: 9500339
+        48B: 21 Subsections = 7168 buckets. Failed count: 26905663
+        64B: 18 Subsections = 4608 buckets. Failed count: 2606358
+        80B: 13 Subsections = 2662 buckets. Failed count: 3116900
+        96B: 3 Subsections = 512 buckets. Failed count: 1240098
+        112B: 2 Subsections = 292 buckets. Failed count: 2405477
+        128B: 2 Subsections = 256 buckets. Failed count: 1606933
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [128.0 KB-256.0 KB]: 927 frames, [256.0 KB-0.5 MB]: 10609 frames, [8.0 MB-16.0 MB]: 46456 frames, [16.0 MB-32.0 MB]: 163807 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 21.8 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [2.0 MB-4.0 MB]: 3 frames, [4.0 MB-8.0 MB]: 2125 frames, [16.0 MB-32.0 MB]: 8603 frames, [32.0 MB-64.0 MB]: 33239 frames, [64.0 MB-128.0 MB]: 177829 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 6
+      Peak Allocated memory 85.0 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 159
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 182 Subsections = 186368 buckets. Failed count: 29083731
+        32B: 15 Subsections = 7680 buckets. Failed count: 9500339
+        48B: 21 Subsections = 7168 buckets. Failed count: 26905663
+        64B: 18 Subsections = 4608 buckets. Failed count: 2606358
+        80B: 13 Subsections = 2662 buckets. Failed count: 3116900
+        96B: 3 Subsections = 512 buckets. Failed count: 1240098
+        112B: 2 Subsections = 292 buckets. Failed count: 2405477
+        128B: 2 Subsections = 256 buckets. Failed count: 1606933
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [128.0 MB-256.0 MB]: 221799 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 23
+      Peak Allocated memory 181.8 MB
+      Peak Large allocation bytes 127.2 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [256.0 MB-0.50 GB]: 221799 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 84
+      Peak Allocated memory 329.2 MB
+      Peak Large allocation bytes 45.7 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 182 Subsections = 186368 buckets. Failed count: 29083731
+        32B: 15 Subsections = 7680 buckets. Failed count: 9500339
+        48B: 21 Subsections = 7168 buckets. Failed count: 26905663
+        64B: 18 Subsections = 4608 buckets. Failed count: 2606358
+        80B: 13 Subsections = 2662 buckets. Failed count: 3116900
+        96B: 3 Subsections = 512 buckets. Failed count: 1240098
+        112B: 2 Subsections = 292 buckets. Failed count: 2405477
+        128B: 2 Subsections = 256 buckets. Failed count: 1606933
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [16.0 KB-32.0 KB]: 2174 frames, [64.0 KB-128.0 KB]: 8621 frames, [128.0 KB-256.0 KB]: 211004 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 188.0 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 221799 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 55.3 KB
+      Peak Large allocation bytes 0 B

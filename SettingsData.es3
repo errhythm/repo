@@ -1,0 +1,17 @@
+{
+	"PlayerBodyColor" : {
+		"__type" : "string",
+		"value" : "29"
+	},
+	"micDevice" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Settings" : {
+		"__type" : "SettingsSaveData,Assembly-CSharp",
+		"value" : {
+			"settingsValue" : {"MasterVolume":75,"MusicVolume":25,"SfxVolume":50,"ProximityVoice":50,"TextToSpeechVolume":75,"MicDevice":0,"MicVolume":100,"PushToTalk":1,"Resolution":0,"Fullscreen":0,"LightDistance":3,"Vsync":0,"Bloom":0,"ChromaticAberration":1,"Grain":1,"MotionBlur":0,"LensEffect":1,"GlitchLoop":1,"MaxFPS":-1,"ShadowQuality":1,"ShadowDistance":2,"WindowMode":0,"RenderSize":2,"Gamma":40,"Tips":1,"AimSensitivity":35,"CameraSmoothing":80,"CameraShake":100,"CameraNoise":100,"CameraAnimation":4,"PlayerNames":1,"RunsPlayed":252,"TutorialPlayed":1,"TutorialJumping":0,"TutorialSprinting":0,"TutorialSneaking":0,"TutorialHiding":2,"TutorialTumbling":3,"TutorialPushingAndPulling":0,"TutorialRotating":3,"TutorialReviving":1,"TutorialHealing":3,"TutorialCartHandling":0,"TutorialItemToggling":0,"TutorialInventoryFill":2,"TutorialMap":0,"TutorialChargingStation":2,"TutorialOnlyOneExtraction":1,"TutorialChat":3,"TutorialFinalExtraction":1,"TutorialMultipleExtractions":1,"TutorialShop":1
+			}
+		}
+	}
+}
